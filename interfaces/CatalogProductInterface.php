@@ -1,6 +1,6 @@
 <?php
 
-namespace maxcom\core\models\interfaces;
+namespace maxcom\core\interfaces;
 
 interface CatalogProductInterface
 {
